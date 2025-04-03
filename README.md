@@ -15,7 +15,12 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 
 ## 🐍 Python Projects
-
+| Name | Description | Areas | Tools |
+|------|------------|-------|-------|
+| [**Visualizing the History of Nobel Prize Winners**](https://colab.research.google.com/github/vzamboulingame/data-portfolio/blob/main/Python%20Projects/Python%20-%2001%20-%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb) | Used data manipulation and visualization skills to explore the history of the Nobel Prize and verify if there are any biases in how the honors are awarded. | Data Analysis, Data Visualization, EDA | Python, pandas, seaborn, numpy, matplotlib |
+| [**Analyzing Crime in Los Angeles**](https://colab.research.google.com/github/vzamboulingame/data-portfolio/blob/main/Python%20Projects/Python%20-%2002%20-%20Analyzing%20Crime%20in%20Los%20Angeles/notebook.ipynb) | Analyzed crime data to determine when and where crime is most likely to occur, along with the types of crimes commonly committed in LA. | Data Analysis, Data Visualization, EDA | Python, pandas, seaborn, numpy, matplotlib |
+| [**Hypothesis Testing with Men's and Women's Soccer Matches**](https://colab.research.google.com/github/vzamboulingame/data-portfolio/blob/main/Python%20Projects/Python%20-%2003%20-%20Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches/notebook.ipynb) | Applied statistical testing to historical data of men's and women's international soccer matches. Tested the hypothesis to determine if women's international soccer matches result in more goals scored than men's. | Data Analysis, Data Visualization, EDA | Python, pandas, seaborn, numpy, pingouin |
+| [**Cleaning Bank Marketing Campaign Data**](https://colab.research.google.com/github/vzamboulingame/data-portfolio/blob/main/Python%20Projects/Python%20-%2004%20-%20Cleaning%20Bank%20Marketing%20Campaign%20Data/notebook.ipynb) | Tidied a bank marketing campaign dataset by splitting it into subsets, updating values, converting data types, and storing it as multiple CSV files. | Data Analysis, Data Wrangling | Python, pandas, numpy |
 
 ## 🛢️ SQL Projects
 
