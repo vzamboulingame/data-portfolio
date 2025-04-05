@@ -2,9 +2,9 @@
 
 # 📊 Vinodh's Data Portfolio
 
-Welcome to my data portfolio ! This repository showcases my projects in Python and SQL, highlighting my skills in data analysis & visualization.
+Welcome to my data portfolio ! This repository contains a curated collection of projects showcasing my skills in data analysis and visualization using Python and SQL.
 
-Feel free to explore the projects and reach out if you have any questions or feedback.
+Feel free to explore the repository and to reach out if you have any questions or feedback.
 
 
 ## 📋 Table of Contents
@@ -32,8 +32,6 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## Contact
 
-Vinodh Zamboulingame
-
 [![linkedin][linkedin-badge]][linkedin-url]
 [![github][github-badge]][github-url]
 
@@ -48,7 +46,7 @@ Copyright © Vinodh Zamboulingame
 <!-- BADGE LINKS -->
 
 [license-url]: https://github.com/vzamboulingame/data-portfolio/blob/main/LICENSE
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/vzamboulingame
-[github-badge]: https://img.shields.io/badge/GitHub-0a0a0a?logo=github&logoColor=white
+[github-badge]: https://img.shields.io/badge/GitHub-0a0a0a?logo=github&logoColor=white&style=for-the-badge
 [github-url]: https://github.com/vzamboulingame
